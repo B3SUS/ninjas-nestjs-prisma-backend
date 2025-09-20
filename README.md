@@ -23,3 +23,5 @@ $ npm run start:prod
 
 Simple CRUD app using NestJs, Prisma, Neon db, Cloudflare (for storing images).
 Main logic files are superheroes/superheroes.controller.ts & superheroes /superheroes.service.ts. Comment provided
+
+Neon used as serverless database. Cloudflare R2 for storing images.
